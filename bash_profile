@@ -26,9 +26,9 @@ alias git='/Users/ed/homebrew/bin/git'
 # You can do it for each line you want commented out.
 # Be sure to replace 0123456789 with the phone number you want to message.
 
-alias ily="cd ~ && osascript sendMessage.applescript 5164249923 'A reminder that I love you ❤️'"
-alias omw="cd ~ && osascript sendMessage.applescript 5164249923 'On My Way! ❤️'"
-alias brt="cd ~ && osascript sendMessage.applescript 5164249923 'Be Right there! ❤️'"
+alias ily="cd ~ && osascript sendMessage.applescript 0123456789 'A reminder that I love you ❤️'"
+alias omw="cd ~ && osascript sendMessage.applescript 0123456789 'On My Way! ❤️'"
+alias brt="cd ~ && osascript sendMessage.applescript 0123456789 'Be Right there! ❤️'"
 
 #####
 
